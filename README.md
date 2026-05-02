@@ -1,6 +1,22 @@
-<<<<<<< HEAD
-# Algorithmic Nation-State MVIA
-=======
-# algorithmic-nation-state-mvia
-Minimum Viable &amp; Impactful Analysis (MVIA) validating the “Algorithmic Nation-State” thesis via ML forecasting, ABM simulations, and probabilistic modeling.
->>>>>>> ce2bce935126534ca3ec569b71237ff77ef26cae
+# Algorithmic Nation-State — MVIA
+
+Minimum Viable & Impactful Analysis (MVIA) validating the “Algorithmic Nation-State” thesis.
+
+## Scope
+- GDP Forecasting (ARIMA vs Random Forest)
+- Agent-Based Modeling (Evolutionary AI firms)
+- Bayesian updating
+- Monte Carlo simulations
+
+## Structure
+- data/ → datasets
+- notebooks/ → main analysis
+- src/ → models + simulations
+- results/ → outputs
+
+## Goal
+Build a computational validation layer for:
+AI-driven macroeconomic and geopolitical dynamics.
+
+## Status
+🚧 Initial setup complete — MVIA in progress
