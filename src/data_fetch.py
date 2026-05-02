@@ -20,6 +20,14 @@ INDICATORS = {
 
     "SL.UEM.TOTL.ZS": "Unemployment",
 
+        # NEW
+
+    "NY.GDP.MKTP.CD": "GDP_Level",
+
+    "SP.POP.TOTL": "Population",
+
+    "NE.TRD.GNFS.ZS": "Trade",
+
 }
 
 def fetch_world_bank_indicator(country_code, indicator_code, start_year=2000, end_year=2024):
